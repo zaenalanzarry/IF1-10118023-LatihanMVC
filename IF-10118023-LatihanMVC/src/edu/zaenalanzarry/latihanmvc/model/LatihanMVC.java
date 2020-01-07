@@ -9,8 +9,10 @@ package edu.zaenalanzarry.latihanmvc.model;
 import edu.zaenalanzarry.latihanmvc.view.PelangganView;
 
 /**
- *
  * @author Zaenal PC
+ * NIM   : 10118023
+ * Nama  : Zaenal Anzarry
+ * Kelas : IF1
  */
 public class LatihanMVC {
 
